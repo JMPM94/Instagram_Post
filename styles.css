@@ -1,0 +1,120 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+.post {
+    display: block;
+    background-color: white;
+    width: 640px;
+    height: 940px;
+    margin:auto;
+} 
+
+
+.post-header {
+    align-items: center;
+    padding: 0%;
+    display: flex;
+    width: 100%;
+    height: 9%;
+    
+}
+
+.Profile-Picture {
+    
+    margin: auto;
+    margin: 5px;
+    
+}
+.picture {
+    margin: 0%;
+    width: 70px;
+    height: 70px;
+    border-radius:35px;
+}
+
+.User {
+    margin: auto;
+    margin-left: 10px;
+    left: 10px;
+
+}
+
+h1 {
+    padding: 0%;
+    font-size: medium;
+    margin-bottom: 5px;
+}
+
+h2 {
+    padding: 0%;
+    font-size: small;
+    margin: 0%;
+}
+
+.Options {
+    right: 20px;
+    margin: auto;
+    margin-right: 40px;
+}
+
+.post-img {
+    margin: auto;
+
+}
+
+.post-body {
+    display: block;
+
+}
+
+.post-icons {
+    margin: 2%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction:  row;
+}
+
+.icons-left {
+    margin-right: 10px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.Heart {
+    margin-right: 10px;
+    padding: 1%;
+}
+
+.Comment {
+    margin-right: 10px;
+
+    padding: 1%;
+}
+
+.Share {
+    margin-right: 10px;
+    padding: 1%;
+}
+
+.Save {
+    padding: 1%;
+    right: 200px;
+}
+
+.Likes {
+    margin: 0%;
+    padding: 2%;
+    
+}
+
+.Copy {
+    font-weight: 400;
+    margin: 0%;
+    padding: 2%;
+}
+
